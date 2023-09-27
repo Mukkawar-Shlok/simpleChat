@@ -1,0 +1,21 @@
+CHAT APPLICATION
+Build a real-time chat application using websockets and socket.io.
+The application should allow users to join chat rooms,
+send messages, and receive messages in real-time.
+
+It should also allow users to see a list of online
+users in a chat room.
+Allow users to enter their names and join a chat room.
+Send a message to all connected clients when a new user joins 
+a chat room.
+Allow users to send messages to the chat room and emit
+ the message to all connected clients.
+Display the messages in real-time on the chat application.
+Allow users to leave the chat room 
+and emit a message to all connected clients when a user leaves.
+Have a basic yet clean frontend.
+Bonus
+
+Persist/store the messages so that a user can see previous messages when he/she joins a chat room
+
+Email: himanshu@molog.in
